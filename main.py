@@ -4,7 +4,7 @@
 
 
 COM端口需要自行设置
-arduino程序见
+arduino程序见main_arduino.ino
 
 '''
 
