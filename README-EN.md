@@ -2,7 +2,7 @@
 
 [![Author_page](https://img.shields.io/badge/Author%20page-on%20bilibili-green)](https://space.bilibili.com/290472819)
 
-[这是中文README](https://github.com/baoqi-zhong/Fast-oscilloscope/README.md)<br>
+[这是中文README](https://github.com/baoqi-zhong/Fast-oscilloscope/blob/master/README.md)<br>
 
 This is a oscilloscope based on python and arduino.
 

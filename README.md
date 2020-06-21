@@ -2,7 +2,7 @@
 
 [![Author_page](https://img.shields.io/badge/Author%20page-on%20bilibili-green)](https://space.bilibili.com/290472819)
 
-[Here is the README in English](https://github.com/baoqi-zhong/Fast-oscilloscope/README-EN.md)<br>
+[Here is the README in English](https://github.com/baoqi-zhong/Fast-oscilloscope/blob/master/README-EN.md)<br>
 
 基于arduino与python3的示波器
 
