@@ -13,7 +13,10 @@
     > 没有刻度......
   - 敬请期待...
 
-![Pandao editor.md](https://pandao.github.io/editor.md/images/logos/editormd-logo-180x180.png "Pandao editor.md")
+
+> 运行示例
+![example1](https://raw.githubusercontent.com/baoqi-zhong/Fast-oscilloscope/master/assets/example.png)
+![example1](https://raw.githubusercontent.com/baoqi-zhong/Fast-oscilloscope/master/assets/example_2.png)
 
 
 ## 自定义设置说明
